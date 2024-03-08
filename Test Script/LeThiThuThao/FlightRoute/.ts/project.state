@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOpenItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>C:\Users\ThuThao\source\repos\BookingAirline\BookingAirline\Test_FlightRoute\ShardLogin\StaffLogin.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>C:\Users\ThuThao\source\repos\BookingAirline\BookingAirline\Test_FlightRoute\TuyenBay\Them.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>C:\Users\ThuThao\source\repos\BookingAirline\BookingAirline\Test_FlightRoute\001.tstest</Path>
+  </OpenItem>
+</ArrayOfOpenItem>

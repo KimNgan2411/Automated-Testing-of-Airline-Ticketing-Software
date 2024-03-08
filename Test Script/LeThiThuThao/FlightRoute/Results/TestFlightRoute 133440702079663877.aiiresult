@@ -1,0 +1,268 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.RunResult",
+  "__value": {
+    "IsComplete": true,
+    "Name": "TestFlightRoute",
+    "StartTime": "2023-11-10T06:09:42Z",
+    "EndTime": "2023-11-10T06:10:07.9617862Z",
+    "Id": "d85e7b2c-b9c2-43c4-b0eb-d44057d20d56",
+    "PassedResult": true,
+    "IsRerun": false,
+    "HasWarnings": false,
+    "PassedCount": 2,
+    "FailedCount": 0,
+    "NotRunCount": 0,
+    "DispatchGroupId": "00000000-0000-0000-0000-000000000000",
+    "DataCollectors": {},
+    "TestResults": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+        "__value": {
+          "Browser": 7,
+          "ExeType": 5,
+          "SeparatorLineCharCount": 60,
+          "Message": "Overall Result: Pass\r\n------------------------------------------------------------\r\n'10/11/2023 1:09:49 CH' - Executing test: 'Login', path: 'Login.tstest.'\r\n'10/11/2023 1:09:49 CH' - Using .Net Runtime version: '4.0.30319.42000' for test execution. Build version is '2023.3.1011.1'.\r\n'10/11/2023 1:09:49 CH' - Starting execution....\r\n------------------------------------------------------------\r\n'10/11/2023 1:09:49 CH' - Tip: The current monitor(s) setup is not at 100% scale!\nFor best recording and execution experience please set all monitor scaling to 100%.\r\n------------------------------------------------------------\r\n------------------------------------------------------------\r\n'10/11/2023 1:09:53 CH' - Using 'Chrome', UseExtension: 'False', version '119.0.6045.124' as default browser. \r\n'10/11/2023 1:09:53 CH' - Using Telerik Components Version: 'Latest'\r\n'10/11/2023 1:09:53 CH' - LOG: NavigateTo: https://localhost:44395/LoginAdmin/Login\r\n'10/11/2023 1:09:54 CH' - 'Pass' : 1. Navigate to : 'https://localhost:44395/LoginAdmin/Login'\r\n'10/11/2023 1:09:56 CH' - 'Pass' : 2. Enter text 'admin' in 'UserText'\r\n'10/11/2023 1:09:58 CH' - 'Pass' : 3. Enter text '123456' in 'PasswordPassword'\r\n'10/11/2023 1:10:00 CH' - 'Pass' : 4. Click 'LoginButtonTag'\r\n'10/11/2023 1:10:01 CH' - 'Pass' : 5. Click 'MenuToggleButtonTag'\r\n'10/11/2023 1:10:02 CH' - 'Pass' : 6. Click 'FlightRouteLink'\r\n------------------------------------------------------------\r\n'10/11/2023 1:10:02 CH' - Overall Result: Pass\r\n'10/11/2023 1:10:02 CH' - Duration: [0 min: 9 sec: 337 msec]\r\n------------------------------------------------------------\r\n'10/11/2023 1:10:03 CH' - Test completed!\r\n",
+          "ScreenRecordingResultPath": null,
+          "ScreenRecordingResultError": null,
+          "ScreenRecordingResultCodec": null,
+          "ScreenRecordingResultSize": 0,
+          "FailureException": null,
+          "Result": 0,
+          "TestId": "ad3873e7-4663-461e-979b-964d1dd87f8b",
+          "TestName": "Login",
+          "IsRerun": false,
+          "TestPath": "Login.tstest",
+          "TestOwner": "",
+          "TestDescription": "",
+          "ProjectPath": "",
+          "StepResults": [
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "Login",
+                "TestPath": "Login.tstest",
+                "TestId": "ad3873e7-4663-461e-979b-964d1dd87f8b",
+                "TestStepIndex": 0,
+                "StepDescription": "Navigate to : 'https://localhost:44395/LoginAdmin/Login'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 1,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1347723234,
+                "IsManual": false,
+                "WasStepEnabled": false,
+                "Warnings": null
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "Login",
+                "TestPath": "Login.tstest",
+                "TestId": "ad3873e7-4663-461e-979b-964d1dd87f8b",
+                "TestStepIndex": 1,
+                "StepDescription": "Enter text 'admin' in 'UserText'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 2,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1106498604,
+                "IsManual": false,
+                "WasStepEnabled": false,
+                "Warnings": null
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "Login",
+                "TestPath": "Login.tstest",
+                "TestId": "ad3873e7-4663-461e-979b-964d1dd87f8b",
+                "TestStepIndex": 2,
+                "StepDescription": "Enter text '123456' in 'PasswordPassword'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 3,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1106498605,
+                "IsManual": false,
+                "WasStepEnabled": false,
+                "Warnings": null
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "Login",
+                "TestPath": "Login.tstest",
+                "TestId": "ad3873e7-4663-461e-979b-964d1dd87f8b",
+                "TestStepIndex": 3,
+                "StepDescription": "Click 'LoginButtonTag'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 4,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960563,
+                "IsManual": false,
+                "WasStepEnabled": false,
+                "Warnings": null
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "Login",
+                "TestPath": "Login.tstest",
+                "TestId": "ad3873e7-4663-461e-979b-964d1dd87f8b",
+                "TestStepIndex": 4,
+                "StepDescription": "Click 'MenuToggleButtonTag'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 5,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960564,
+                "IsManual": false,
+                "WasStepEnabled": false,
+                "Warnings": null
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "Login",
+                "TestPath": "Login.tstest",
+                "TestId": "ad3873e7-4663-461e-979b-964d1dd87f8b",
+                "TestStepIndex": 5,
+                "StepDescription": "Click 'FlightRouteLink'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 6,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960565,
+                "IsManual": false,
+                "WasStepEnabled": false,
+                "Warnings": null
+              }
+            }
+          ],
+          "NotRunStepDescriptions": [],
+          "TotalPassedSteps": 6,
+          "ExecutingTestStepCount": 6,
+          "TotalNumberOfNotRunSteps": 0,
+          "IsDataDrivenResult": false,
+          "DataIterationResults": [],
+          "EndTime": "2023-11-10T06:10:02.827024Z",
+          "StartTime": "2023-11-10T06:09:53.4897464Z",
+          "ProfilerResultsPath": null,
+          "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+          "CommitedBy": null,
+          "HasWarnings": false
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+        "__value": {
+          "Browser": 7,
+          "ExeType": 5,
+          "SeparatorLineCharCount": 60,
+          "Message": "Overall Result: Pass\r\n------------------------------------------------------------\r\n'10/11/2023 1:10:04 CH' - Executing test: 'TS_FR_001', path: 'TS_FR_001.tstest.'\r\n'10/11/2023 1:10:04 CH' - Using .Net Runtime version: '4.0.30319.42000' for test execution. Build version is '2023.3.1011.1'.\r\n'10/11/2023 1:10:04 CH' - Starting execution....\r\n------------------------------------------------------------\r\n'10/11/2023 1:10:04 CH' - Tip: The current monitor(s) setup is not at 100% scale!\nFor best recording and execution experience please set all monitor scaling to 100%.\r\n------------------------------------------------------------\r\n------------------------------------------------------------\r\n'10/11/2023 1:10:06 CH' - Using 'Chrome', UseExtension: 'False', version '119.0.6045.124' as default browser. \r\n'10/11/2023 1:10:06 CH' - Using Telerik Components Version: 'Latest'\r\n'10/11/2023 1:10:06 CH' - LOG: NavigateTo: https://localhost:44395/NhanVien/FlightRoute\r\n'10/11/2023 1:10:06 CH' - 'Pass' : 1. Navigate to : 'https://localhost:44395/NhanVien/FlightRoute'\r\n------------------------------------------------------------\r\n'10/11/2023 1:10:06 CH' - Overall Result: Pass\r\n'10/11/2023 1:10:06 CH' - Duration: [0 min: 0 sec: 657 msec]\r\n------------------------------------------------------------\r\n'10/11/2023 1:10:07 CH' - Test completed!\r\n",
+          "ScreenRecordingResultPath": null,
+          "ScreenRecordingResultError": null,
+          "ScreenRecordingResultCodec": null,
+          "ScreenRecordingResultSize": 0,
+          "FailureException": null,
+          "Result": 0,
+          "TestId": "22cbc2f6-6fe1-4387-8c5e-cc2950478c66",
+          "TestName": "TS_FR_001",
+          "IsRerun": false,
+          "TestPath": "TS_FR_001.tstest",
+          "TestOwner": "",
+          "TestDescription": "",
+          "ProjectPath": "",
+          "StepResults": [
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "TS_FR_001",
+                "TestPath": "TS_FR_001.tstest",
+                "TestId": "22cbc2f6-6fe1-4387-8c5e-cc2950478c66",
+                "TestStepIndex": 0,
+                "StepDescription": "Navigate to : 'https://localhost:44395/NhanVien/FlightRoute'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 1,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1347723234,
+                "IsManual": false,
+                "WasStepEnabled": false,
+                "Warnings": null
+              }
+            }
+          ],
+          "NotRunStepDescriptions": [],
+          "TotalPassedSteps": 1,
+          "ExecutingTestStepCount": 1,
+          "TotalNumberOfNotRunSteps": 0,
+          "IsDataDrivenResult": false,
+          "DataIterationResults": [],
+          "EndTime": "2023-11-10T06:10:06.8536068Z",
+          "StartTime": "2023-11-10T06:10:06.195901Z",
+          "ProfilerResultsPath": null,
+          "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+          "CommitedBy": null,
+          "HasWarnings": false
+        }
+      }
+    ],
+    "FileName": "TestFlightRoute 133440702079663877",
+    "Machine": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Scheduling.Machine",
+      "__value": {
+        "Id": "00000000-0000-0000-0000-000000000000",
+        "NetworkName": "MAPLE",
+        "OperatingSystem": "Windows 11",
+        "InstalledBrowsers": [
+          {
+            "__type": "ArtOfTest.WebAii.Design.Execution.Scheduling.BrowserInformation",
+            "__value": {
+              "Type": 7,
+              "Version": "119.0.6045.124",
+              "IsConfigured": true
+            }
+          },
+          {
+            "__type": "ArtOfTest.WebAii.Design.Execution.Scheduling.BrowserInformation",
+            "__value": {
+              "Type": 10,
+              "Version": "119.0.2151.44",
+              "IsConfigured": false
+            }
+          }
+        ],
+        "Status": 0,
+        "ServiceUri": null,
+        "DBState": 0,
+        "UserName": "ThuThao"
+      }
+    },
+    "Messages": null,
+    "RunId": "d85e7b2c-b9c2-43c4-b0eb-d44057d20d56",
+    "Comment": null,
+    "TestListId": "af943ac3-de77-47c1-9800-5ea2f11745ec",
+    "IsManual": false
+  }
+}

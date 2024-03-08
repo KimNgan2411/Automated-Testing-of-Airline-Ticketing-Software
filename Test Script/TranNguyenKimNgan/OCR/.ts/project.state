@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOpenItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>E:\Nha_testscript\TestProject\TestProject\TC_1.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>E:\Nha_testscript\TestProject\TestProject\TC_2.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>E:\Nha_testscript\TestProject\TestProject\TC_3.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>E:\Nha_testscript\TestProject\TestProject\TC_4.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>E:\Nha_testscript\TestProject\TestProject\TC_5.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>E:\Nha_testscript\TestProject\TestProject\TC_6.tstest</Path>
+  </OpenItem>
+  <OpenItem>
+    <OpenItemType>TestFile</OpenItemType>
+    <Path>E:\Nha_testscript\TestProject\TestProject\TC_7.tstest</Path>
+  </OpenItem>
+</ArrayOfOpenItem>
